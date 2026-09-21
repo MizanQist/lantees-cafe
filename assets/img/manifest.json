@@ -1,0 +1,470 @@
+{
+ "drink-branded-cups": {
+  "h": 1431,
+  "w": 987
+ },
+ "drink-duo-bokeh": {
+  "h": 1388,
+  "w": 871
+ },
+ "drink-green-2": {
+  "h": 1431,
+  "w": 987
+ },
+ "drink-green-hand": {
+  "h": 1431,
+  "w": 989
+ },
+ "drink-green-mango": {
+  "h": 1431,
+  "w": 987
+ },
+ "drink-hibiscus-cup": {
+  "h": 1426,
+  "w": 987
+ },
+ "drink-iced-cup": {
+  "h": 1426,
+  "w": 987
+ },
+ "drink-iced-duo": {
+  "h": 1431,
+  "w": 989
+ },
+ "drink-matcha": {
+  "h": 1426,
+  "w": 987
+ },
+ "drink-mojito": {
+  "h": 1426,
+  "w": 987
+ },
+ "drink-rose": {
+  "h": 1431,
+  "w": 987
+ },
+ "drink-tea-pour": {
+  "h": 1431,
+  "w": 989
+ },
+ "drink-two-smoothies": {
+  "h": 1388,
+  "w": 929
+ },
+ "food-avocado-eating": {
+  "h": 1431,
+  "w": 991
+ },
+ "food-avocado-toast-cut": {
+  "h": 1365,
+  "w": 955
+ },
+ "food-avocado-top": {
+  "h": 1431,
+  "w": 987
+ },
+ "food-benedict": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-benedict-eating": {
+  "h": 1431,
+  "w": 991
+ },
+ "food-big-breakfast": {
+  "h": 1390,
+  "w": 931
+ },
+ "food-breakfast-trio": {
+  "h": 1428,
+  "w": 989
+ },
+ "food-brunch-flatlay": {
+  "h": 1364,
+  "w": 955
+ },
+ "food-brunch-flatlay-2": {
+  "h": 1428,
+  "w": 987
+ },
+ "food-brunch-latte": {
+  "h": 1431,
+  "w": 987
+ },
+ "food-burger": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-cake-cloche": {
+  "h": 1431,
+  "w": 987
+ },
+ "food-charcoal-pizza": {
+  "h": 1359,
+  "w": 943
+ },
+ "food-chia-pudding": {
+  "h": 1380,
+  "w": 929
+ },
+ "food-chicken-waffles-pour": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-creamy-penne": {
+  "h": 1386,
+  "w": 987
+ },
+ "food-croissant-latte": {
+  "h": 1431,
+  "w": 987
+ },
+ "food-fish-rice": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-fish-rice-2": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-flatlay-2": {
+  "h": 1428,
+  "w": 989
+ },
+ "food-flatlay-coffee": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-gnocchi": {
+  "h": 1368,
+  "w": 955
+ },
+ "food-granola-bowl": {
+  "h": 1431,
+  "w": 989
+ },
+ "food-granola-bowl-2": {
+  "h": 1365,
+  "w": 955
+ },
+ "food-granola-bowl-3": {
+  "h": 1426,
+  "w": 983
+ },
+ "food-granola-bowl-4": {
+  "h": 1365,
+  "w": 955
+ },
+ "food-grill-platter": {
+  "h": 1365,
+  "w": 955
+ },
+ "food-grilled-fish": {
+  "h": 1428,
+  "w": 987
+ },
+ "food-ice-cream": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-kofta-rice": {
+  "h": 1364,
+  "w": 955
+ },
+ "food-kofta-rice-2": {
+  "h": 1368,
+  "w": 955
+ },
+ "food-lamb-rack": {
+  "h": 1372,
+  "w": 955
+ },
+ "food-lamb-rack-2": {
+  "h": 1366,
+  "w": 955
+ },
+ "food-lamb-shank": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-linguine": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-pancakes-3": {
+  "h": 1431,
+  "w": 987
+ },
+ "food-pancakes-egg": {
+  "h": 1388,
+  "w": 929
+ },
+ "food-pancakes-lemon": {
+  "h": 1431,
+  "w": 989
+ },
+ "food-pancakes-stack": {
+  "h": 1390,
+  "w": 985
+ },
+ "food-pancakes-top": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-penne-green-juice": {
+  "h": 1386,
+  "w": 987
+ },
+ "food-pesto-fork": {
+  "h": 1363,
+  "w": 955
+ },
+ "food-pizza-close": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-pizza-close-2": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-pizza-swirl": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-porridge": {
+  "h": 1431,
+  "w": 987
+ },
+ "food-prawn-pesto-penne": {
+  "h": 1369,
+  "w": 955
+ },
+ "food-prawns-rice": {
+  "h": 1388,
+  "w": 873
+ },
+ "food-roast-chicken": {
+  "h": 1431,
+  "w": 987
+ },
+ "food-roast-platter": {
+  "h": 1426,
+  "w": 933
+ },
+ "food-saffron-couscous": {
+  "h": 1363,
+  "w": 955
+ },
+ "food-salmon-close": {
+  "h": 1428,
+  "w": 989
+ },
+ "food-salmon-salad": {
+  "h": 1365,
+  "w": 955
+ },
+ "food-sandwich-flatlay": {
+  "h": 1431,
+  "w": 989
+ },
+ "food-spread-green": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-steak-overhead": {
+  "h": 1388,
+  "w": 989
+ },
+ "food-table-number5": {
+  "h": 1424,
+  "w": 985
+ },
+ "food-table-overhead": {
+  "h": 1368,
+  "w": 955
+ },
+ "food-table-spread": {
+  "h": 1365,
+  "w": 955
+ },
+ "food-table-spread-2": {
+  "h": 1342,
+  "w": 944
+ },
+ "food-tbone": {
+  "h": 1426,
+  "w": 987
+ },
+ "food-waffles-table": {
+  "h": 1369,
+  "w": 955
+ },
+ "guest-berry-drink": {
+  "h": 1431,
+  "w": 931
+ },
+ "guest-floral": {
+  "h": 1426,
+  "w": 987
+ },
+ "guest-gentleman-kaftan": {
+  "h": 1431,
+  "w": 925
+ },
+ "guest-gentleman-navy": {
+  "h": 1369,
+  "w": 955
+ },
+ "guest-navy-tee": {
+  "h": 1428,
+  "w": 987
+ },
+ "guest-pink-smoothie": {
+  "h": 1388,
+  "w": 931
+ },
+ "guest-pink-stripe": {
+  "h": 1424,
+  "w": 985
+ },
+ "guest-pink-trousers": {
+  "h": 1365,
+  "w": 955
+ },
+ "guest-plaid": {
+  "h": 1426,
+  "w": 987
+ },
+ "guest-purple-kaftan": {
+  "h": 1431,
+  "w": 987
+ },
+ "guest-reflection": {
+  "h": 1426,
+  "w": 987
+ },
+ "guest-tea-sip": {
+  "h": 1368,
+  "w": 955
+ },
+ "guest-terrace-cap": {
+  "h": 1426,
+  "w": 987
+ },
+ "guest-white-banquette": {
+  "h": 1372,
+  "w": 955
+ },
+ "guest-white-tee": {
+  "h": 1370,
+  "w": 955
+ },
+ "guest-window-yellow": {
+  "h": 1364,
+  "w": 955
+ },
+ "guest-yellow-2": {
+  "h": 1426,
+  "w": 987
+ },
+ "service-latte": {
+  "h": 1431,
+  "w": 987
+ },
+ "social-garden-women": {
+  "h": 1426,
+  "w": 987
+ },
+ "social-phone-photo": {
+  "h": 1424,
+  "w": 985
+ },
+ "social-pizza-share": {
+  "h": 1426,
+  "w": 987
+ },
+ "social-pizza-share-2": {
+  "h": 1426,
+  "w": 987
+ },
+ "social-sandwich-share": {
+  "h": 1426,
+  "w": 987
+ },
+ "social-table-lunch": {
+  "h": 1422,
+  "w": 987
+ },
+ "social-trio-sign": {
+  "h": 1461,
+  "w": 955
+ },
+ "social-two-women-sign": {
+  "h": 1361,
+  "w": 955
+ },
+ "space-bar-baristas": {
+  "h": 1392,
+  "w": 933
+ },
+ "space-booth-spread": {
+  "h": 1368,
+  "w": 955
+ },
+ "space-garden-breakfast": {
+  "h": 1386,
+  "w": 987
+ },
+ "space-garden-terrace": {
+  "h": 1366,
+  "w": 955
+ },
+ "space-salon-chairs": {
+  "h": 1365,
+  "w": 955
+ },
+ "space-salon-table": {
+  "h": 1370,
+  "w": 955
+ },
+ "space-salon-wide": {
+  "h": 1366,
+  "w": 955
+ },
+ "space-sign-brunch": {
+  "h": 1368,
+  "w": 955
+ },
+ "space-sign-brunch-2": {
+  "h": 1428,
+  "w": 989
+ },
+ "space-sign-leaves": {
+  "h": 1370,
+  "w": 955
+ },
+ "space-window-bar": {
+  "h": 1372,
+  "w": 936
+ },
+ "space-window-interior": {
+  "h": 1366,
+  "w": 955
+ },
+ "space-window-women": {
+  "h": 1426,
+  "w": 987
+ },
+ "work-laptop-espresso": {
+  "h": 1426,
+  "w": 933
+ },
+ "work-laptop-juice": {
+  "h": 1426,
+  "w": 929
+ },
+ "work-window-couple": {
+  "h": 1410,
+  "w": 954
+ }
+}
