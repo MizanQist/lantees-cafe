@@ -123,8 +123,10 @@
     function show(k) {
       slides[i].classList.remove("is-active"); i = (k + slides.length) % slides.length; slides[i].classList.add("is-active");
       if (dots) $$("button", dots).forEach((b, j) => b.classList.toggle("is-active", j === i));
-      const next = slides[(i + 1) % slides.length]; if (next.dataset.src) { next.src = next.dataset.src; delete next.dataset.src; }
     }
+    function upgrade(s) { if (s.dataset.srcset) { s.srcset = s.dataset.srcset; s.sizes = "100vw"; delete s.dataset.srcset; } if (s.dataset.src) { s.src = s.dataset.src; delete s.dataset.src; } }
+    function upgradeRest() { slides.slice(1).forEach(upgrade); }
+    if (slides[0].complete) upgradeRest(); else { slides[0].addEventListener("load", upgradeRest, { once: true }); slides[0].addEventListener("error", upgradeRest, { once: true }); }
     function start() { stop(); if (reduceMotion) return; timer = setInterval(() => { if (visible && !document.hidden) show(i + 1); }, 6500); }
     function stop() { clearInterval(timer); }
     if (dots) dots.addEventListener("click", (e) => { const b = e.target.closest("button"); if (!b) return; show($$("button", dots).indexOf(b)); start(); });

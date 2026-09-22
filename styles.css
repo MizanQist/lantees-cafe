@@ -185,7 +185,7 @@ p { margin: 0 0 1em; }
 .hero__slide.is-active { opacity: 1; }
 @media (prefers-reduced-motion: no-preference) {
   .hero__slide.is-active { animation: kenburns 9s linear forwards; }
-  @keyframes kenburns { from { transform: scale(1.04); } to { transform: scale(1.12); } }
+  @keyframes kenburns { from { transform: scale(1.02); } to { transform: scale(1.08); } }
 }
 .hero__scrim { position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(23, 40, 31, .35) 0%, rgba(23, 40, 31, .05) 35%, rgba(23, 40, 31, .72) 100%); }
 .hero__body { padding: 0 0 clamp(3rem, 8vh, 6rem); max-width: 44rem; }
